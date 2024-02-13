@@ -1,10 +1,12 @@
 applikationsutveckling
 automatiseringsverktyg
+dokumentversion
 driftsavbrott
 incidenthantering
 kapacitetsplanering
 konfigurationshantering
 konsultteam
+kontaktinformation
 lastbalanserare
 lasttester
 livscykelansvar

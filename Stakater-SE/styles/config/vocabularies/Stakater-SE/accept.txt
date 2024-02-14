@@ -24,3 +24,7 @@ systemlandskap
 utvecklingskrav
 utvecklingsteam
 versionshantering
+teamuppdelning
+utvecklingsriktlinjer
+problemhantering
+lastbalansering

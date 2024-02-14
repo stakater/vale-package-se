@@ -8,6 +8,7 @@ konfigurationshantering
 konsultteam
 kontaktinformation
 lastbalanserare
+lastbalansering
 lasttester
 livscykelansvar
 loggningsplattform
@@ -17,10 +18,13 @@ mjukvaruverktyg
 monitorering
 plattformsdrift
 plattformsteam
+problemhantering
 produktteam
 referensprojekt
 supportmodell
 systemlandskap
+teamuppdelning
 utvecklingskrav
+utvecklingsriktlinjer
 utvecklingsteam
 versionshantering

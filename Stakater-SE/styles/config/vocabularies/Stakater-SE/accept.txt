@@ -1,3 +1,4 @@
+applikationsmigrering
 applikationsutveckling
 automatiseringsverktyg
 dokumentversion
@@ -5,6 +6,7 @@ driftsavbrott
 incidenthantering
 kapacitetsplanering
 konfigurationshantering
+kunskapsdelning
 konsultteam
 kontaktinformation
 lastbalanserare

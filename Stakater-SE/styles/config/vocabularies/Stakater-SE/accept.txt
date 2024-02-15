@@ -1,3 +1,4 @@
+applikationsmigrering
 applikationsutveckling
 automatiseringsverktyg
 dokumentversion
